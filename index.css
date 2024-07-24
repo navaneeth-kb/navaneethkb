@@ -463,6 +463,8 @@ transform: translateY(-1px);
     #links{
         display: flex;
         gap:10px;
+        position: relative;
+        bottom: 5px;
     }
     
     #links_icons{
