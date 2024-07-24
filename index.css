@@ -365,7 +365,7 @@ transform: translateY(-1px);
         
     }
     #hero{
-/*         height: 70vh; */
+        height: 75vh; 
     }
     #sub_head{
         font-size: 25px;
