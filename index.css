@@ -282,6 +282,7 @@ transform: translateY(-1px);
 #resume{
     display: flex;
     flex-direction: column;
+    margin-bottom:40px;
 }
 #resume_bts{
     display: flex;
