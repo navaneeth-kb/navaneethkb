@@ -207,7 +207,7 @@ transform: translateY(-1px);
 }
 
 #works_con{
-    height: 500px;
+    height: 580px;
     display: flex;
     gap:35px;
     overflow-x: auto;
@@ -216,7 +216,7 @@ transform: translateY(-1px);
     width:0;
 }
 #works_con_s{
-    height: 420px;
+    height: 480px;
     display: flex;
     gap:35px;
     overflow-x: auto;
